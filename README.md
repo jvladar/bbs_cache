@@ -98,8 +98,8 @@ def main():
 Nižšie je vidieť časť výpisov z kódu. Na začiatku môžeme vidieť že divosi hodujú a divoch2 zistí že je prázdny hrniec. Dá signál kuchárom ktorý postupne začnú variť, posledný kuchár nastaví počet porcií na 6. Divosi môžu začať opäť jesť a zopakovať tento proces odznova. 
 
 ```
-
 ...
+
 divoch3: nabera jest, pocet porcii v hrnci = 1 
 divoch  3: hoduje
 divoch4: nabera jest, pocet porcii v hrnci = 0 
@@ -134,8 +134,8 @@ divoch4: nabera jest, pocet porcii v hrnci = 4
 divoch  4: hoduje
 divoch1: nabera jest, pocet porcii v hrnci = 3 
 divoch  1: hoduje
-...
 
+...
 ```
 
 ### **3. Zvoľte vhodne charakteristiky, na ktorých sa model zakladá (počty vlákien, časovania aktivít, hodnoty ďalších premenných).**
