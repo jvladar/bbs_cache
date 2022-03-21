@@ -95,7 +95,7 @@ def main():
 ```
 ### **3. Umiestnite vhodné výpisy na overenie funkčnosti modelu**
 
-Nižšie je vidieť časť výpisov z kódu. Na začiatku môžeme vidieť že divosi hodujú a divoch2 zistí že je prázdny hrniec. Dá signál kuchárom ktorý postupne začnú variť, posledný kuchár nastaví počet porcií na 6. Divosi môžu začať opäť jesť a zopakovať tento proces odznova. 
+Nižšie je vidieť časť výpisov z konzoly. Na začiatku môžeme vidieť že divosi hodujú a divoch2 zistí že je prázdny hrniec. Dá signál kuchárom ktorý postupne začnú variť, posledný kuchár nastaví počet porcií na 6. Divosi môžu začať opäť jesť a zopakovať tento proces odznova. 
 
 ```
 ...
